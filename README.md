@@ -21,7 +21,7 @@ El repositorio está compuesto por las siguientes carpetas:
   
   - **`transformed`**: Datos intermedios que han sido parcialmente procesados y aún no están listos para su uso final.
   
-  - **`forecasting`** : Predicciones generadas a partir del modelo que mejores resultados dió para un horizonte temporal de un año y medio
+  - **`forecast`** : Predicciones generadas a partir del modelo que mejores resultados dió para un horizonte temporal de un año y medio
   
 - **`doc`**: directorio que contiene el informe realizado concluyendo los resultados obtenidos en el proyecto
 
